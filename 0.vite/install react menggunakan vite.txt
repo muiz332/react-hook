@@ -1,0 +1,16 @@
+nah ada cara terbaru untuk menginstal react 
+yaitu menggunakan react vite
+
+bedanya kalo didalam react vie itu filenya 
+.jsx sedangkan didalam react js
+filenya .js
+
+nah untuk program public didalam react vite itu kita harus buat sendiri
+didalamnya kita bisa isikan file css gambar dll
+
+ini adalah link cara mengintal react menggunakan vite
+
+https://dev.to/keefdrive/create-react-app-vs-vite-2amn
+
+nah kalo didalam react js 
+file index.js kalo didalam vite namanya main.jsx
